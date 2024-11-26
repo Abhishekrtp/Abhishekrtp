@@ -36,6 +36,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrtp&show_icons=true&locale=en&layout=compact" alt="abhishekrtp" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhishekrtp" alt="GitHub Streak" /></a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrtp&show_icons=true&locale=en" alt="abhishekrtp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrtp&" alt="abhishekrtp" /></p>
