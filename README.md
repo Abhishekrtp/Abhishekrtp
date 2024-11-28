@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhishekrtp/Abhishekrtp/blob/main/Cover.png) 
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek_an_d" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_an_d?logo=twitter&style=for-the-badge" alt="abhishek_an_d" /></a> </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://abhishek-an-and.netlify.app/](https://abhishek-an-and.netlify.app/)
 
