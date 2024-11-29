@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek_an_d" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_an_d?logo=twitter&style=for-the-badge" alt="abhishek_an_d" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning Anything which excites me 😊
 
 - 👨‍💻 All of my projects are available at [https://abhishek-an-and.netlify.app/](https://abhishek-an-and.netlify.app/)
 
